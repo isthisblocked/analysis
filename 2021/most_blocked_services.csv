@@ -1,0 +1,44 @@
+short_name,service,2021_restricted,2021_blocked,2021_weighted_total
+skype,Skype,11,9,29
+googlehangouts,Google Meet,3,12,27
+mozillafirefox,Mozilla Firefox,18,4,26
+dropbox,Dropbox,5,8,21
+python,Python,17,2,21
+gmail,Gmail,3,8,19
+zoom,Zoom,9,5,19
+rstudio,R Studio,15,2,19
+slideshare,Slideshare,2,8,18
+twitch,Twitch,0,8,16
+slack,Slack,4,6,16
+googledocs,Google Workspace,5,5,15
+youtube,YouTube,2,6,14
+tableau,Tableau,8,2,12
+gist,Gist,1,5,11
+googlechrome,Google Chrome,10,0,10
+yammer,Yammer,1,4,9
+appearin,Whereby,4,2,8
+facebook,Facebook,3,2,7
+github,Github,3,2,7
+rocketchat,Rocket.Chat,1,3,7
+prezi,Prezi,0,3,6
+discord,Discord,0,3,6
+evernote,Evernote,1,2,5
+trello,Trello,1,2,5
+notion,Notion,0,2,4
+surveymonkey,SurveyMonkey,0,2,4
+hootsuite,Hootsuite,4,0,4
+instagram,Instagram,2,1,4
+asana,Asana,1,1,3
+linkedin,LinkedIn,1,1,3
+doodle,Doodle,0,1,2
+figma,Figma,0,1,2
+fluidsurveys,FluidSurveys,0,1,2
+funretro,FunRetro,0,1,2
+slido,Slido,0,1,2
+webex,WebEx,2,0,2
+airtable,Airtable,0,1,2
+circleci,CircleCI,0,1,2
+twitter,Twitter,1,0,1
+gccollab,GCcollab,0,0,0
+miro,Miro,0,0,0
+reddit,Reddit,0,0,0
